@@ -1,2 +1,2 @@
 # pahadicore
-it is a profile for yhe content of mountains and nature
+it is a profile for the content of mountains and nature
